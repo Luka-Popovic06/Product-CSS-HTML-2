@@ -53,8 +53,7 @@ nav {
   align-items: center;
   position: absolute;
   top: 140px;
-  left: 130px;
-  right: 130px;
+  left: 136px;
 }
 .input-1 {
   width: 450px;
@@ -122,3 +121,79 @@ nav {
   border-left: 2px solid #ececec;
 }
 /*container*/
+.container {
+  margin-top: 150px;
+}
+/*GRID*/
+.grid {
+  display: grid;
+  grid-template-columns: 330px 330px 330px;
+  grid-template-rows: 220px 220px 220px;
+  justify-content: center;
+  row-gap: 70px;
+  column-gap: 35px;
+}
+/*grid-1*/
+.grid-1 {
+  background-color: white;
+  position: relative;
+  border-radius: 20px;
+  padding-top: 45px;
+  padding-left: 30px;
+}
+/**/
+.img-1 {
+  width: 34px;
+  height: 14px;
+  background-color: rgb(234, 147, 16);
+  padding: 17px 8px;
+  border-radius: 10px;
+  position: absolute;
+  top: -26px;
+  left: 30px;
+}
+.img-2 {
+}
+.img-3 {
+}
+.img-4 {
+}
+.img-5 {
+}
+.img-6 {
+}
+.img-7 {
+}
+.img-8 {
+}
+.img-9 {
+}
+/**/
+.paragraf-box {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 15px;
+}
+.p-4 {
+  color: #c5c5c5;
+}
+.p-5 {
+  color: #c5c5c5;
+}
+/**/
+.p-6 {
+  font-weight: 600;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.p-7 {
+  color: #c5c5c5;
+  margin-bottom: 40px;
+}
+.link-1 {
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: 600;
+  color: #5964e0;
+}
