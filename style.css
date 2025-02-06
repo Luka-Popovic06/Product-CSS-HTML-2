@@ -153,20 +153,84 @@ nav {
   left: 30px;
 }
 .img-2 {
+  width: 25px;
+  height: 14px;
+  background-color: rgb(229, 75, 36);
+  padding: 17px 12px;
+  border-radius: 10px;
+  position: absolute;
+  top: -26px;
+  left: 30px;
 }
 .img-3 {
+  width: 34px;
+  height: 10px;
+  background-color: rgb(53, 54, 65);
+  padding: 20px 8px;
+  border-radius: 10px;
+  position: absolute;
+  top: -26px;
+  left: 30px;
 }
 .img-4 {
+  width: 23px;
+  height: 14px;
+  background-color: rgb(47, 79, 198);
+  padding: 17px 15px;
+  border-radius: 10px;
+  position: absolute;
+  top: -26px;
+  left: 30px;
 }
 .img-5 {
+  width: 20px;
+  height: 14px;
+  background-color: rgb(19, 32, 52);
+  padding: 17px 17px;
+  border-radius: 10px;
+  position: absolute;
+  top: -26px;
+  left: 30px;
 }
 .img-6 {
+  width: 20px;
+  height: 14px;
+  background-color: rgb(78, 24, 83);
+  padding: 17px 17px;
+  border-radius: 10px;
+  position: absolute;
+  top: -26px;
+  left: 30px;
 }
 .img-7 {
+  width: 34px;
+  height: 10px;
+  background-color: rgb(71, 33, 196);
+  padding: 19px 8px;
+  border-radius: 10px;
+  position: absolute;
+  top: -26px;
+  left: 30px;
 }
 .img-8 {
+  width: 20px;
+  height: 14px;
+  background-color: rgb(33, 67, 125);
+  padding: 17px 17px;
+  border-radius: 10px;
+  position: absolute;
+  top: -26px;
+  left: 30px;
 }
 .img-9 {
+  width: 20px;
+  height: 14px;
+  background-color: rgb(242, 221, 202);
+  padding: 17px 17px;
+  border-radius: 10px;
+  position: absolute;
+  top: -26px;
+  left: 30px;
 }
 /**/
 .paragraf-box {
@@ -196,4 +260,24 @@ nav {
   font-size: 15px;
   font-weight: 600;
   color: #5964e0;
+}
+/**/
+.button-box {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+#button-2 {
+  width: 120px;
+  height: 70px;
+  border: none;
+  background-color: #5964e0;
+  color: white;
+  font-size: 17px;
+  border-radius: 7px;
+  margin-top: 70px;
+  margin-bottom: 50px;
+}
+#button-2:hover {
+  background-color: #8b93ed;
 }
